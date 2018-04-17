@@ -15,5 +15,5 @@ Remember to add your bot-token where TOKEN variable is required if you want a bo
 ## To do:
   - [ ] Add multi-instance bot support
   - [ ] Add multi-language support
-  - [ ] Add JSON to manage files
+  - [ ] Add comments 
   - [ ] Finish the bot
