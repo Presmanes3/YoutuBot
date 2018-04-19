@@ -14,7 +14,7 @@ Remember to add your bot-token where TOKEN variable is required if you want a bo
 
 ## To do:
   - [ ] Add user control support
-  - [ ] Add multi-language support
+  - [x] Add multi-language support
   - [x] Add comments
   - [ ] Add file size/duration control
   - [ ] Finish the bot
